@@ -1,0 +1,229 @@
+ /*Extra small devices portrait phones, less than 576px*/
+@media (max-width: 575.98px) { 
+    .menu ul li a {
+        
+        padding: 0 10px !important;
+        margin-bottom: 10px
+    }
+  
+    .bannner{
+        padding: 35px 0px 65px;
+    
+    }
+    .b_text{ 
+      margin-top: 20px;
+      text-align: center;
+    }
+    .b_h1{
+        margin: 10px 0 20px;
+        font-size: 25px;
+        line-height: 35px;
+        padding-right: 0px;
+        
+        }
+        .p_black{
+            line-height: 24px;
+            padding: 0px  0px;
+
+        }
+    .b_img{
+        padding: 0px 0px;
+
+    }
+    .features {
+        padding-bottom: 60px;
+    }
+    .c_item p {
+        line-height: 16px;
+    }
+    .date ul li img,.seat ul li img{
+        width: 14px;
+        
+    }
+    .date ul li span,.seat ul li span{ 
+        font-size: 13px;
+            
+        }
+        .c_item h2 {
+            
+            font-size: 23px;
+           
+        }
+        /*testtimnoial*/
+        .c_title {
+            margin-bottom: 36px;
+        }
+        .t_img img{
+            /* text-align: center; */
+            margin-right: 90px;
+            text-align: center;
+        }
+        .text_t {
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 30px;
+            margin-top: 28px;
+        }
+        .textt {
+            /* font-size: 19px; */
+            padding: 2px;
+        }
+
+        .f_1{
+            text-align: center;
+            font-size: 14px;
+           
+            
+        }
+        .f_2{
+            text-align: center;
+            padding-bottom: 40px
+        }
+        .f_2 a {
+            font-size: 14px;
+           ;
+        }
+    .t_img{
+
+           /* margin-right: 10px !important; */
+    /* margin-left: 15px; */
+    text-align: center;
+    padding-left: 73px;
+        }
+      
+ }
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+   
+   .menu ul li a {
+        
+        padding: 0 10px !important;
+        margin-bottom: 10px
+    }
+    .features {
+        padding-bottom: 60px;
+    }
+   
+    .f_1{
+        text-align: center;
+        font-size: 14px;
+        
+    }
+    .f_2{
+        text-align: center;
+        padding-bottom: 40px
+    }
+    .t_img  {
+        /* text-align: center; */
+           /* text-align: center; */
+         margin-right: 5px !important; 
+         text-align: center;
+    }
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .menu ul li a {
+        
+        padding: 0 10px !important;
+        margin-bottom: 10px
+    }
+    .bannner{
+        padding: 35px 0px 65px;
+    
+    }
+    .b_text{ 
+      margin-top: 30px;
+      text-align: center;
+    }
+    .b_h1{
+        margin: 10px 0 20px;
+        font-size: 25px;
+        line-height: 35px;
+        padding-right: 0px;
+        
+        }
+        .p_black{
+            line-height: 24px;
+            padding: 0px  50px;
+
+        }
+    .b_img{
+        padding: 0 100px;
+
+    }
+    /* features*/
+    .features{
+        padding-bottom: 80px;
+     
+     }
+     .c_item{
+         margin-top: 40px;
+        padding: 25px 180px 30px;
+        
+        }
+     /* features*/
+     .t_img {
+        margin-top: 15px;
+        text-align: center;
+        padding: 0px 0;
+    }
+    .text_t {
+        line-height: 24px;
+        margin-top: 14px;
+    }
+    .c_title {
+        margin-bottom: 30px;
+    }
+    footer{
+        padding-bottom: 10px;
+   }
+
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .b_h1{
+     
+        font-size: 31px;
+        }
+        .c_item{
+            padding: 15px 15px 20px;
+            
+            }
+            .date ul li img, .seat ul li img{
+                width: 14px;
+                
+            }
+            .date ul li span,.seat ul li span{ 
+                font-size: 13px;
+                    
+                }
+                /*testimonial*/
+                .text_t {
+                   
+                    font-size: 12px;
+                    margin-top: 14px;
+                }
+                footer{
+                    padding-bottom: 20px;
+               }
+               .t_img {
+                width: 100%;
+                text-align: center;
+                padding-left: 150px;
+                margin-top: 22px;
+            }
+          
+            }
+         
+ /*Extra large devices (large desktops, 1200px and up)*/
+ @media (min-width: 1200px) and (max-width: 1399.98px) { 
+  
+  
+  
+  }
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) { 
+  
+  
+}

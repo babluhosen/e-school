@@ -1,0 +1,22 @@
+note------
+e-school---
+font family ---
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+color :bg=#F0FFF0
+black=#000000
+green=#21B573
+white 
+hover =: #FD511A
+banner---
+xxl/xl/lg -          md-         sm/color
+padding 35/65         10/60
+h1-xxl/xl -48 lg-40     md-35
+ ----------------feature-----------------------
+ 
+
+layout 
+section
+semantic
+code comment
+reuse
